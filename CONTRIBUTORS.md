@@ -1744,6 +1744,11 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
+#### Name: [Oleksandr Yizchak Sanin](https://github.com/AlexanderSanin)
+- Place: Tel Aviv, Israel
+- Bio: Cloud engineer
+- GitHub: [Oleksandr Yizchak Sanin](https://github.com/AlexanderSanin)
+
 #### Name: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
 - Place: Kyiv, Ukraine
 - Bio: Python Dev
